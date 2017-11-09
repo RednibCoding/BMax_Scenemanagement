@@ -1,6 +1,6 @@
 # BMax_Scenemanagement
 This project makes it possible to have kind of a scene like management in BMax.
-Classes:
+
  - TComposer
  - TScene
 
